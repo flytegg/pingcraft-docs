@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Pingcraft",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#45a049",
+    "light": "#45a049",
+    "dark": "#45a049"
   },
   "favicon": "/favicon.svg",
   "navigation": {
